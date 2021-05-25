@@ -1,5 +1,15 @@
-### Hi there 👋
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=insomnia98&show_icons=true&theme=tokyonight)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=insomnia98&show_icons=true&theme=radical)
 
+### 🎓 Profile
+
+Junior in [Kyungpook National University](https://knu.ac.kr/)<br>
+Majoring in [Electronics Engineering](https://see.knu.ac.kr/)<br>
+Club member of [GnB](http://knugnbnet.cf/) 
+
+### 📫 Contact
+email : fines1285@gmail.com<br>
+instagram : [singsang_s0ng](https://www.instagram.com/singsang_s0ng/)<br>
 <!--
 **miseongkkim/miseongkkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
